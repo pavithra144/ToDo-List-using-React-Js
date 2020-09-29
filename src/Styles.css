@@ -1,0 +1,35 @@
+.Todo-container{
+    background-color:#0d6075;
+    width: 300px;
+    min-height: 500px;
+    padding: 0 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: aliceblue;
+  /* text-align: center; */
+}
+.Todo-button{
+    border-radius: 20px;
+    height: 10px;
+    width: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+a:hover{
+font-size: 20px;
+display: fixed;
+position: static;
+ 
+}
+.Todo-input {
+    color:black;
+    padding-left: 10px;
+    font-size: 18px;
+    text-align: left;
+    
+}
+#todo-list{
+    position: sticky;
+}
